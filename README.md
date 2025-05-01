@@ -80,10 +80,10 @@ Your smart, organized space for notes and documents with powerful features and e
 
 ## 👨‍💻 Author
 
-**[Your Name]**  
+**[Rakesh Babu Gajula]**  
 📧 grakesh2605@gmaill.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rakesh-babu-gajula/)  
-🐱 [GitHub](https://github.com/yourusername)
+🐱 [GitHub](https://github.com/GajulaRakeshBabu/Notes-Nest)
 
 
 
